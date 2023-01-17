@@ -1,0 +1,28 @@
+body {
+    background:url(/1673938276981.jpg);
+    margin:0;
+    display:flex;
+    height:100vh;
+    justify-content:center;
+    align-items:center;
+    font-family:times;
+    
+}
+.lo{
+  color:white;
+  background:black;
+  border-radius:16px;
+  padding:20px;
+  box-shadow:0 6px 10px rgba(0,0,0,.3);
+}
+.input{
+  width:100%;
+  font-size:20px;
+  height:30px;
+  
+  
+}
+.payment{
+  font-weight:600px;
+  font-size:20px;
+}
